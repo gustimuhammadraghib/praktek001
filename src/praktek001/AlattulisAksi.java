@@ -19,7 +19,7 @@ public class AlattulisAksi {
     Buku.Bentuk  = "Persegi";
     Buku.Panjang = "25 Cm";
     Buku.Bahan   = "Selulosa";
-    Buku.Warna   = "Putih";
+    Buku.Warna   = "Putih"; 
 
     Pulpen.Jenis   = "Pulpen Tinta";
     Pulpen.Bentuk  = "Silinder";
@@ -33,6 +33,8 @@ public class AlattulisAksi {
     Penggaris.Bahan   = "Carbon";
     Penggaris.Warna   = "Abu-Abu";
     
-
+    Buku.tampildata();
+    Pulpen.tampildata();
+    Penggaris.tampildata();
     }
 }
