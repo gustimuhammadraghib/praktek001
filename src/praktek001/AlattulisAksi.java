@@ -10,5 +10,9 @@ package praktek001;
  * @author GMR
  */
 public class AlattulisAksi {
-    
+    public static void main(String[] args) {
+    Alattulis Buku       = new Alattulis();
+    Alattulis Pulpen     = new Alattulis();
+    Alattulis Penggaris  = new Alattulis();
+    }
 }
